@@ -124,6 +124,12 @@ function openFilterSection(){
 
 
 
+//close filter section function
+function closeFilterSection(){
+    document.getElementById("filter_box").style.marginLeft="-30%";
+}
+
+
 
 
 
